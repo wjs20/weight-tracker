@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# secrets
+credentials.json
+
+# Vscode
+.vscode
+
+# Jupyter
+*.ipynb
+
+# Deployment package
+*.zip
+package/
